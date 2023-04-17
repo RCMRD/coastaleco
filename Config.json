@@ -1,0 +1,10 @@
+var config = {
+geoserver: {
+url:"http://apps.rcmrd.org:8080/geoserver/coastaleco/wms",//external ip of the main data workspace
+}
+}
+var config2 = {
+geoserver: {
+url:"http://apps.rcmrd.org:8080/geoserver/coastaleco2/wms",//external ip of the main data workspace
+}
+}
